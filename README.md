@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<br />
-[![trophy](https://github-profile-trophy.vercel.app/?username=pockks&theme=onedark)](https://github.com/pockks/github-profile-trophy)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pockks&label=Profile%20views&color=0e75b6&style=flat" alt="pockks" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pockks" alt="pockks" /></a> </p>
+
+
 <br />
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pockks&show_icons=true&locale=en&layout=compact" alt="pockks" /></p>
 <br />
