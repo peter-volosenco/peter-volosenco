@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <br />
+[![trophy](https://github-profile-trophy.vercel.app/?username=pockks&theme=onedark)](https://github.com/pockks/github-profile-trophy)
+<br />
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pockks&show_icons=true&locale=en&layout=compact" alt="pockks" /></p>
 <br />
 <p><img  src="https://github-readme-stats.vercel.app/api?username=pockks&show_icons=true&locale=en" alt="pockks" /></p>
