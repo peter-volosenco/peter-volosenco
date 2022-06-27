@@ -1,20 +1,19 @@
 ### Hi there 👋
 
-
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=pockks&" alt="pockks" /></p>
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pockks&label=Profile%20views&color=0e75b6&style=flat" alt="pockks" /> </p>
-
+<br />
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=pockks&column=4" alt="pockks" />
   </a> 
 </p>
-
 <br />
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pockks&show_icons=true&locale=en&layout=compact" alt="pockks" /></p>
 <br />
 <p><img  src="https://github-readme-stats.vercel.app/api?username=pockks&show_icons=true&locale=en" alt="pockks" /></p>
 <br />
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=pockks&" alt="pockks" /></p>
 
 <!--
 **pockks/pockks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
