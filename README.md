@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<br />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pockks&show_icons=true&locale=en&layout=compact" alt="pockks" /></p>
+<br />
+<p><img  src="https://github-readme-stats.vercel.app/api?username=pockks&show_icons=true&locale=en" alt="pockks" /></p>
+<br />
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=pockks&" alt="pockks" /></p>
+
 <!--
 **pockks/pockks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
