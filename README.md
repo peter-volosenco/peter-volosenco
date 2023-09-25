@@ -4,7 +4,7 @@
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=peter-volosenco&" alt="peter-volosenco" /></p>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=peter-volosenco&column=4" alt="peter-volosenco" />
+    <img src="https://github-profile-trophy.vercel.app/?username=peter-volosenco&theme=onedark" alt="peter-volosenco" />
   </a> 
 </p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-volosenco&show_icons=true&locale=en&layout=compact" alt="peter-volosenco" /></p>
