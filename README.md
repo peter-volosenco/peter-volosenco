@@ -1,6 +1,6 @@
 # Software developer
 
-<p><img src="https://komarev.com/ghpvc/?username=peter-volosenco" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=peter-volosenco&style=for-the-badge" /></p>
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=peter-volosenco&" alt="peter-volosenco" /></p>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
