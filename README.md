@@ -1,4 +1,4 @@
-# Software developer
+<h1>Hi, I'm Peter Volosenco</h1>
 
 <p><img src="https://komarev.com/ghpvc/?username=peter-volosenco&style=for-the-badge" /></p>
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=peter-volosenco&" alt="peter-volosenco" /></p>
