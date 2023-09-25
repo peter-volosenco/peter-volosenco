@@ -14,4 +14,4 @@
 -->
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=peter-volosenco&" alt="peter-volosenco" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-volosenco&show_icons=true&locale=en&layout=compact" alt="peter-volosenco" /> <img  src="https://github-readme-stats.vercel.app/api?username=peter-volosenco&show_icons=true&locale=en" alt="peter-volosenco" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api?username=peter-volosenco&show_icons=true&locale=en" alt="peter-volosenco" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-volosenco&show_icons=true&locale=en&layout=compact" alt="peter-volosenco" /></p>
